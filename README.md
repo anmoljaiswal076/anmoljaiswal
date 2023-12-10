@@ -1,6 +1,4 @@
-# Profile
-
- Hi there, I'm Anmol Jaiswal 👋
+Hi there, I'm Anmol Jaiswal 👋
  
  <h3>I'm  Programmer </h3>
  
